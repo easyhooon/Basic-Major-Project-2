@@ -1,0 +1,3 @@
+math 1 Mon 1 4 새천년관 4 5000
+korean 2 Tue 4 7 문과대 4 15
+english 3 Fri 2 7 사과대 4 7
